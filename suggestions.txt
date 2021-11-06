@@ -1,0 +1,6 @@
+Forking a repository means copying an existing repository under your own
+account. This will allow you to make changes to the upstream repository
+without messing up the original versions. The changes are made under your
+account. Pulling allows you to change the repository for what you have. It
+is also possible to do a pull request which will allow your changes made
+under your own version of the repository be made to the upstream repository.

@@ -1,3 +1,10 @@
 Group member one: Reeve Blake
 Group member two: Kaden Carr
+
+6.
 git clone https://github.com/reeve567/VCSHomework.git
+
+9.
+git add vcscen3031.txt
+git commit -m "Update vcscen3031.txt"
+git push
